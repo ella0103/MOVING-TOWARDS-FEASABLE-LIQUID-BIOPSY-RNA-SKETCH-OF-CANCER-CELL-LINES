@@ -14,6 +14,8 @@ The full report of the analysys can be found here
 ## Table of contents
 [Requirements] 
 [Input files] 
+[Reference genome]
+[Tools and settings]
 [Output interpretation] 
 [Acknowledgements]
 
@@ -21,8 +23,18 @@ The full report of the analysys can be found here
 Galaxy server 
 Python 3.10.10
 
-
 ## Input files 
 Input files can be accessed on the Galaxy history:
+
+## Reference genome
+The reference sample, T2T-CHM13v2.0 was downloaded locally from the official site of the National Library of Medicine (https://www.ncbi.nlm.nih.gov/assembly/GCF_009914755.1/) ![image](https://github.com/ella0103/MOVING-TOWARDS-FEASABLE-LIQUID-BIOPSY-RNA-SKETCH-OF-CANCER-CELL-LINES/assets/121402109/71c2eb60-43de-4905-a1ae-77ee3ffae3dd)
+ The file can be accessed in the local history: 
+
+## Tools and settings
+All tools were used directly on the Galaxy server provided by Avans University of Applied Sciences.
+
+
+
+## Output interpretation
 
 
