@@ -33,7 +33,8 @@ Input files can be accessed on the [Galaxy history](https://galaxy.atgm.avans.nl
 
 ## Reference genome
 The reference sample, T2T-CHM13v2.0 was downloaded locally from the [official site of the National Library of Medicine](https://www.ncbi.nlm.nih.gov/assembly/GCF_009914755.1/). 
-The files can be accessed in the local history in a fna and gtf file format [here] (https://galaxy.atgm.avans.nl/u/mirela_minkova/h/reference-genome)  
+The files can be accessed in the local history in a fna and gtf file format [here](https://galaxy.atgm.avans.nl/u/mirela_minkova/h/reference-genome).
+
 
 ## Tools and settings
 All tools were used directly on the Galaxy server provided by Avans University of Applied Sciences.
