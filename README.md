@@ -25,7 +25,7 @@ The full report of the analysys can be found here
 - Python 3.10.10
 
 ## Galaxy Workflow
-The Galaxy Workflow can be accessed via [here]  
+The Galaxy Workflow can be accessed via [here] Galaxy-Workflow-Workflow_constructed_from_history__MinION_data_imported_ (2).ga 
 
 ## Input files 
 Input files can be accessed on the Galaxy history:
