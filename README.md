@@ -21,10 +21,11 @@ The full report of the analysys can be found here
 - [Acknowledgements](#acknowledgements)
 
 ## Requirements
-Galaxy server 
-Python 3.10.10
+- Galaxy server
+- Python 3.10.10
 
 ## Galaxy Workflow
+The Galaxy Workflow can be accessed via [here]  
 
 ## Input files 
 Input files can be accessed on the Galaxy history:
