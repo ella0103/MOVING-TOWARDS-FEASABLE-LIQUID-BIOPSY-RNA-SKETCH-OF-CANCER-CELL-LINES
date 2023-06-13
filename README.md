@@ -28,11 +28,11 @@ The full report of the analysys can be found here
 The Galaxy Workflow can be accessed [here](https://github.com/ella0103/MOVING-TOWARDS-FEASABLE-LIQUID-BIOPSY-RNA-SKETCH-OF-CANCER-CELL-LINES/blob/a939c148217ea633a306f9f73b5260881cd6e752/Galaxy-Workflow-Workflow_constructed_from_history__MinION_data_imported_%20(2).ga).
 
 ## Input files 
-Input files can be accessed on the Galaxy history:
+Input files can be accessed on the [Galaxy history] (https://galaxy.atgm.avans.nl/u/mirela_minkova/h/minion-rna-seq-input-data)
 
 ## Reference genome
 The reference sample, T2T-CHM13v2.0 was downloaded locally from the [official site of the National Library of Medicine](https://www.ncbi.nlm.nih.gov/assembly/GCF_009914755.1/). 
-The file can be accessed in the local history: 
+The files can be accessed in the local history in a fna and gtf file format [here] (https://galaxy.atgm.avans.nl/u/mirela_minkova/h/reference-genome)  
 
 ## Tools and settings
 All tools were used directly on the Galaxy server provided by Avans University of Applied Sciences.
