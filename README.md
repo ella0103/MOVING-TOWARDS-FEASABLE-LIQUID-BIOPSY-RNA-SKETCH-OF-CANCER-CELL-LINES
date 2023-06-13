@@ -17,7 +17,7 @@ The full report of the analysys can be found here
 - [Acknowledgements](#acknowledgements)
 
 ## Flowchart
-![flowchart_pp](https://github.com/ella0103/MOVING-TOWARDS-FEASABLE-LIQUID-BIOPSY-RNA-SKETCH-OF-CANCER-CELL-LINES/blob/main/assets/121402109/eed5c459-ba85-45e4-a05b-4544908dce46.png)
+![flowchart_project](https://github.com/ella0103/MOVING-TOWARDS-FEASABLE-LIQUID-BIOPSY-RNA-SKETCH-OF-CANCER-CELL-LINES/assets/121402109/435323f4-3ee2-463e-8177-a9b636d4ff47)
 
 
 ## Requirements
