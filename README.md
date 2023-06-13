@@ -59,6 +59,8 @@ FeatureCounts was used for the read count generated from Minimap2. All settings 
 - Validation of the cell lines was performed using lists with reference genomes specific for a certain cell line available on the [Harrmonize 3.0 website](https://maayanlab.cloud/Harmonizome/). Genes with the highest expression levels per cell line were chosen and compared throughout the different cell lines.
 
 ## Acknowledgements
-[Nanoplot](https://github.com/wdecoster/NanoPlot)
-[Minimap2](https://github.com/lh3/minimap2)
-[FeatureCounts](https://rnnh.github.io/bioinfo-notebook/docs/featureCounts.html)
+- [Nanoplot](https://github.com/wdecoster/NanoPlot)
+- [Minimap2](https://github.com/lh3/minimap2)
+- [FeatureCounts](https://rnnh.github.io/bioinfo-notebook/docs/featureCounts.html)
+- [Samtools stats](http://www.htslib.org/doc/samtools-stats.html)
+- [Samtools view](http://www.htslib.org/doc/samtools-view.html)
