@@ -4,11 +4,6 @@ Analysis of cancer and healthy cell lines using long-read RNA-seq, conducted wit
 The objective of the study was set to assess the feasibility of RNA sketching with MinION for efficient differentiation between liquid biopsy samples of cancer cell lines and healthy cell lines. 
 
 
-## Flowchart
-![flowchart_pp](https://github.com/ella0103/MOVING-TOWARDS-FEASABLE-LIQUID-BIOPSY-RNA-SKETCH-OF-CANCER-CELL-LINES/assets/121402109/eed5c459-ba85-45e4-a05b-4544908dce46)
-
-
-
 The full report of the analysys can be found here
 
 ## Table of contents
@@ -60,4 +55,5 @@ FeatureCounts was used for the read count generated from Minimap2. All settings 
 
 ## Output interpretation
 - The gene location per chromosome was determined using the output files from FeatureCounts and the reference T2T-CHM13v.2.0, applying the VLOOKUP function in Excel. This way validation of the number of genes presented on the X and Y chromosome was performed. 
-- Validation of the cell lines was performed using lists with reference genomes specific for a certain cell line available on the Harrmonize 3.0 [website] (https://maayanlab.cloud/Harmonizome/). Genes with the highest expression levels per cell lines were chosen and compared throughout the different cell lines 
+- Validation of the cell lines was performed using lists with reference genomes specific for a certain cell line available on the [Harrmonize 3.0 website](https://maayanlab.cloud/Harmonizome/). Genes with the highest expression levels per cell line were chosen and compared throughout the different cell lines.
+
