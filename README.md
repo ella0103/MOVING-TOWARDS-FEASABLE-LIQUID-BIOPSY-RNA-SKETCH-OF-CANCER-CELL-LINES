@@ -57,3 +57,7 @@ FeatureCounts was used for the read count generated from Minimap2. All settings 
 - The gene location per chromosome was determined using the output files from FeatureCounts and the reference T2T-CHM13v.2.0, applying the VLOOKUP function in Excel. This way validation of the number of genes presented on the X and Y chromosome was performed. 
 - Validation of the cell lines was performed using lists with reference genomes specific for a certain cell line available on the [Harrmonize 3.0 website](https://maayanlab.cloud/Harmonizome/). Genes with the highest expression levels per cell line were chosen and compared throughout the different cell lines.
 
+## Acknowledgements
+[Nanoplot](https://github.com/wdecoster/NanoPlot)
+[Minimap2](https://github.com/lh3/minimap2)
+[FeatureCounts](https://rnnh.github.io/bioinfo-notebook/docs/featureCounts.html)
