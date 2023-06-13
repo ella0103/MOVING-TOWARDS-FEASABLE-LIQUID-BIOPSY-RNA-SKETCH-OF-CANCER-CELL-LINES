@@ -25,7 +25,7 @@ The full report of the analysys can be found here
 - Python 3.10.10
 
 ## Galaxy Workflow
-The Galaxy Workflow can be accessed [here] https://github.com/ella0103/MOVING-TOWARDS-FEASABLE-LIQUID-BIOPSY-RNA-SKETCH-OF-CANCER-CELL-LINES/blob/a939c148217ea633a306f9f73b5260881cd6e752/Galaxy-Workflow-Workflow_constructed_from_history__MinION_data_imported_%20(2).ga
+The Galaxy Workflow can be accessed [here](https://github.com/ella0103/MOVING-TOWARDS-FEASABLE-LIQUID-BIOPSY-RNA-SKETCH-OF-CANCER-CELL-LINES/blob/a939c148217ea633a306f9f73b5260881cd6e752/Galaxy-Workflow-Workflow_constructed_from_history__MinION_data_imported_%20(2).ga).
 
 ## Input files 
 Input files can be accessed on the Galaxy history:
