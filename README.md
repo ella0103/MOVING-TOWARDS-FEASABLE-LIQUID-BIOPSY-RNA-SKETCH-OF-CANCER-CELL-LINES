@@ -7,7 +7,7 @@ The objective of the study was set to assess the feasibility of RNA sketching wi
 The full report of the analysys can be found here
 
 ## Table of contents
-- [Flowchart] (#flowchart)
+- [Flowchart](#flowchart)
 - [Requirements](#requirements)
 - [Galaxy workflow](#galaxy-workflow)
 - [Input files](#input-files)
