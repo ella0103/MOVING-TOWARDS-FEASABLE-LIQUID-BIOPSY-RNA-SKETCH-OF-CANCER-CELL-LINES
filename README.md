@@ -14,7 +14,7 @@ The full report of the analysys can be found here
 - [Reference genome](#reference-genome)
 - [Tools and settings](#tools-and-settings)
 - [Output interpretation](#output-interpretation)
-- [Acknowledgements](#acknowledgements)
+- [Dependencies](#acknowledgements)
 
 ## Flowchart
 ![flowchart_project](https://github.com/ella0103/MOVING-TOWARDS-FEASABLE-LIQUID-BIOPSY-RNA-SKETCH-OF-CANCER-CELL-LINES/assets/121402109/435323f4-3ee2-463e-8177-a9b636d4ff47)
@@ -58,7 +58,7 @@ FeatureCounts was used for the read count generated from Minimap2. All settings 
 - The gene location per chromosome was determined using the output files from FeatureCounts and the reference T2T-CHM13v.2.0, applying the VLOOKUP function in Excel. This way validation of the number of genes presented on the X and Y chromosome was performed. 
 - Validation of the cell lines was performed using lists with reference genomes specific for a certain cell line available on the [Harrmonize 3.0 website](https://maayanlab.cloud/Harmonizome/). Genes with the highest expression levels per cell line were chosen and compared throughout the different cell lines.
 
-## Acknowledgements
+## Dependencies
 - [Nanoplot](https://github.com/wdecoster/NanoPlot)
 - [Minimap2](https://github.com/lh3/minimap2)
 - [FeatureCounts](https://rnnh.github.io/bioinfo-notebook/docs/featureCounts.html)
